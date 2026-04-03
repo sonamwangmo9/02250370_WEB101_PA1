@@ -74,3 +74,6 @@ The application is designed to work on different screen sizes including desktop,
 
 ## Notes
 This project focuses on understanding React fundamentals such as components, props, and layout design. It is not a full clone of Netflix, but a simplified version created for learning purposes.
+
+
+github link: https://github.com/sonamwangmo9/02250370_WEB101_PA1.git
