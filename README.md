@@ -1,3 +1,4 @@
+
 # Netflix Clone
 
 ## Description
@@ -17,3 +18,6 @@ This project recreates a Netflix homepage using React.
 ## How to Run
 npm install
 npm run dev
+=======
+# 02250370_WEB101_PA1
+
