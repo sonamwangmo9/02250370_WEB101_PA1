@@ -1,23 +1,19 @@
-
-# Netflix Clone
+# Netflix Clone (WEB101 PA1)
 
 ## Description
-This project recreates a Netflix homepage using React.
+This project recreates a Netflix homepage using React and Vite.
+
+## Features
+- Component-based architecture
+- Reusable components (Row, MovieCard)
+- Responsive design
 
 ## Components
 - Navbar
 - Banner
-- Row (Reusable)
-- MovieCard (Reusable)
-
-## Features
-- Responsive design
-- Reusable components
-- Dynamic movie data
+- Row
+- MovieCard
 
 ## How to Run
 npm install
 npm run dev
-=======
-# 02250370_WEB101_PA1
-

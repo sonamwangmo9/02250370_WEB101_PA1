@@ -1,8 +1,7 @@
-function MovieCard({ title, image }) {
+function MovieCard({ image }) {
   return (
     <div className="movie">
-      <img src={image} alt={title} />
-      <p>{title}</p>
+      <img src={image} alt="" />
     </div>
   );
 }

@@ -6,11 +6,7 @@ function Row({ title, movies }) {
       <h2>{title}</h2>
       <div className="row-posters">
         {movies.map((movie, index) => (
-          <MovieCard
-            key={index}
-            title={movie.title}
-            image={movie.image}
-          />
+          <MovieCard key={index} image={movie.image} />
         ))}
       </div>
     </div>

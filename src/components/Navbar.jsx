@@ -1,8 +1,8 @@
 function Navbar() {
   return (
     <div className="navbar">
-      <h2>NETFLIX</h2>
-      <div>
+      <h2 className="logo">NETFLIX</h2>
+      <div className="menu">
         <span>Home</span>
         <span>TV Shows</span>
         <span>Movies</span>
